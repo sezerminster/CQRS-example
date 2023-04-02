@@ -1,0 +1,8 @@
+D:\CQRS\CQRS\CQRS\bin\Debug\CQRS.exe.config
+D:\CQRS\CQRS\CQRS\bin\Debug\CQRS.exe
+D:\CQRS\CQRS\CQRS\bin\Debug\CQRS.pdb
+D:\CQRS\CQRS\CQRS\obj\Debug\CQRS.csproj.AssemblyReference.cache
+D:\CQRS\CQRS\CQRS\obj\Debug\CQRS.csproj.SuggestedBindingRedirects.cache
+D:\CQRS\CQRS\CQRS\obj\Debug\CQRS.csproj.CoreCompileInputs.cache
+D:\CQRS\CQRS\CQRS\obj\Debug\CQRS.exe
+D:\CQRS\CQRS\CQRS\obj\Debug\CQRS.pdb
